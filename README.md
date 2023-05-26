@@ -1,10 +1,8 @@
 ## Olá, eu sou o klaercio
-
-<div align="center">
-  <a href="https://github.com/klaercio">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=klaercio&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaercio&layout=compact&langs_count=7&theme=aura"/>
-</div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaercio&show_icons=true&theme=aura&layout=compact&include_all_commits=true&card_width=450px)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=klaercio&show_icons=true&theme=aura&layout=compact&langs_count=10&card_width=450px")
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="ksc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ksc-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
