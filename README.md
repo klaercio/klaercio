@@ -1,7 +1,7 @@
 ## Olá, eu sou o klaercio
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaercio&show_icons=true&theme=aura&layout=compact&include_all_commits=true&card_width=450px)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=klaercio&show_icons=true&theme=aura&layout=compact&langs_count=10&card_width=450px")
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaercio&show_icons=true&theme=aura&layout=compact&include_all_commits=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=klaercio&show_icons=true&theme=aura&layout=compact&langs_count=10&card_width=400px")
   
 <div style="display: inline_block"><br>
   <img align="center" alt="ksc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
