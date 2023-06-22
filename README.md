@@ -1,10 +1,8 @@
-## Olá, eu sou o klaercio
+## Klaercio Castro - Full Stack Developer
 
 <div markdown="1" style="display: flex">
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaercio&show_icons=true&theme=aura&layout=compact&include_all_commits=true)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=klaercio&show_icons=true&theme=aura&layout=compact&langs_count=10")
- 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klaercio&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaercio&layout=compact&langs_count=10&theme=aura"/>
 </div>
 
 <div style="display: inline_block"><br>
